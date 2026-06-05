@@ -189,7 +189,7 @@
 					},
 					{
 						"key": "authorization",
-						"value": "Bearer 0MuE6PjT8oplJa1xB1rp89ffWMd7HHmIp40Ftlre"
+						"value": "Bearer {{TEST_ANALYTICS_TOKEN}}"
 					},
 					{
 						"key": "priority",
