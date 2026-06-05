@@ -115,8 +115,6 @@ def _build_group_name(message: Any, stack_trace: Any) -> str:
     haystack = f"{message_text}\n{stack_text}".lower()
 
     for label, required_parts in CUSTOM_GROUP_RULES:
-        if all(part in haystack for part in required_parts):
-            return label
         if any(part in haystack for part in required_parts):
             return label
 
