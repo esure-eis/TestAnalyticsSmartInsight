@@ -483,7 +483,7 @@ def _build_quarterly_dashboard_sheet(wb: Workbook, rows: list[list[Any]]) -> Non
         values = [
             total_combined if total_combined else None,
             automation_total if automation_total else None,
-            automation_pass if automation_pass else None,
+            automation_pass if automation_total else None,
             automation_fail if automation_total else None,
             automation_pass_pct,
             automation_time if automation_time else None,
