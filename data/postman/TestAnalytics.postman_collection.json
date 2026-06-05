@@ -170,7 +170,7 @@
 						"babe29a8-404d-11f1-84d2-855d0da06c64"
 					]
 				},
-				"description": "Generated from cURL: curl 'https://eis-analytics-v3-01.escloud.co.uk/api/runs/babe29a8-404d-11f1-84d2-855d0da06c64' \\\n  -H 'accept: application/json' \\\n  -H 'accept-language: en-US,en;q=0.9' \\\n  -H 'authorization: Bearer 0MuE6PjT8oplJa1xB1rp89ffWMd7HHmIp40Ftlre' \\\n  -b 'JWT_REFRESH=xmw0uvk397y5CgDRjeL0eq42ODGB4rRhJbTekk1L; JWT_ACCESS=Bearer%200MuE6PjT8oplJa1xB1rp89ffWMd7HHmIp40Ftlre' \\\n  -H 'priority: u=1, i' \\\n  -H 'referer: https://eis-analytics-v3-01.escloud.co.uk/runs/details?id=babe29a8-404d-11f1-84d2-855d0da06c64' \\\n  -H 'sec-ch-ua: \"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"' \\\n  -H 'sec-ch-ua-mobile: ?0' \\\n  -H 'sec-ch-ua-platform: \"macOS\"' \\\n  -H 'sec-fetch-dest: empty' \\\n  -H 'sec-fetch-mode: cors' \\\n  -H 'sec-fetch-site: same-origin' \\\n  -H 'sessionid: 3ffujr7ol' \\\n  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'"
+				"description": "Generated from cURL (credentials redacted)"
 			},
 			"response": []
 		},
